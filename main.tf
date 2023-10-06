@@ -15,7 +15,7 @@ terraform {
     organization = "ACG-Terraform-Demos-nv"
 
     workspaces {
-      name = "demo-github-actions"
+      name = "demo-github-action"
     }
   }
 }
